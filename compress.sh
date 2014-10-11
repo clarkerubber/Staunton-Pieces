@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for piece in Basic Glass Metal Wood RedVBlue Wax; do
+for piece in Basic Glass Metal RedVBlue Trimmed Wax Wood; do
   orig=Renders/$piece/Scaled
   dimensions="180x230"
   echo "$orig/180";
